@@ -1,18 +1,16 @@
-# templete-hexagonal
+# Implementar APIs necesarias en Spring boot 
 
-![userrolemembership1](https://github.com/choquidownn25/templete-hexagonal/blob/main/img/List.jpg)
-![userrolemembership2](https://github.com/choquidownn25/templete-hexagonal/blob/main/img/Post.jpg)
+![userrolemembership1](https://github.com/choquidownn25/gegelsa/blob/main/Imagenes/Diagrama.jpg)
+![userrolemembership2](https://github.com/choquidownn25/gegelsa/blob/main/Imagenes/Web.jpg)
 # Features
 
 - spring initializr https://start.spring.io/
-- Maven
+- Gradle
 - Java 19
 - Web API 
 - Lombok
 - JPA
-- Struct Map
-- Validation
-- Swagger 2
+
 
 
 # Development Tools & Environment
